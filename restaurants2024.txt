@@ -1,0 +1,100 @@
+1,Tatiana by Kwame Onwuachi,American-Caribbean
+2,Blanca,American (Tasting Menu)
+3,Le Bernardin,French (Seafood)
+4,Atomix,Korean (Tasting Menu)
+5,Via Carota,Italian
+6,La Piraña Lechonera,Puerto Rican
+7,Semma,Indian
+8,Superiority Burger,American (Vegetarian)
+9,Yoshino,Japanese (Omakase)
+10,Torrisi,Italian
+11,Estela,American
+12,Una Pizza Napoletana,Italian (Pizza)
+13,Ci Siamo,Italian
+14,ABCV,American (Vegetarian)
+15,CheLi,Chinese
+16,Jeju Noodle Bar,Korean
+17,The Four Horsemen,American
+18,Trinciti Roti Shop,Trinidadian
+19,Jean-Georges,French (Tasting Menu)
+20,Mắm,Vietnamese
+21,Casa Mono and Bar Jamón,Spanish
+22,Kono,Japanese (Tasting Menu)
+23,Queens Night Market,Various
+24,Café Carmellini,American-French-Italian
+25,Sailor,American-Mediterranean
+26,Eyval,Iranian
+27,King,Italian
+28,Le Coucou,French
+29,Zaab Zaab,Thai
+30,Atoboy,Korean
+31,Houseman,American
+32,Shion 69 Leonard Street,Japanese (Omakase)
+33,Gramercy Tavern,American
+34,I Sodi,Italian
+35,Daniel,French (Tasting Menu)
+36,Szechuan Mountain House,Chinese (Sichuan)
+37,Koloman,French-Viennese
+38,Claud,French-American
+39,Rezdôra,Italian
+40,Okdongsik,Korean
+41,Misi,Italian
+42,Frenchette,French
+43,Ernesto's,Spanish
+44,Forever Jerk,Jamaican
+45,Raku,Japanese
+46,Clover Hill,American (Tasting Menu)
+47,Aquavit,Scandinavian
+48,Gage & Tollner,American (Seafood)
+49,Don Peppe,Italian-American
+50,Shaw-naé's House,American (Soul Food)
+51,Barbuto,Italian-American
+52,Yoon Haeundae Galbi,Korean
+53,Foul Witch,Italian
+54,Dhamaka,Indian (Regional)
+55,The Grill,American
+56,Contento,Peruvian
+57,Mercado Little Spain,Spanish
+58,Le Rock,French
+59,Great N.Y. Noodletown,Chinese
+60,Village Cafe,Azerbaijani
+61,Aska,Scandinavian (Tasting Menu)
+62,Txikito,Spanish (Basque)
+63,Craft,American
+64,Lodi,Italian
+65,Falafel Tanami,Israeli
+66,Barney Greengrass,Jewish Deli
+67,Le Crocodile,French
+68,Chongqing Lao Zao,Chinese (Chongqing)
+69,AbuQir Seafood,Egyptian (Seafood)
+70,Birria-Landia,Mexican
+71,Shukette,Middle Eastern
+72,Hainanese Chicken House,Malaysian
+73,Mark's Off Madison,Italian-American
+74,Ayat,Palestinian
+75,Dirt Candy,American (Vegetarian)
+76,Llama Inn,Peruvian
+77,Oiji Mi,Korean
+78,S & P Lunch,American (Diner)
+79,Mariscos El Submarino,Mexican (Seafood)
+80,Temple Canteen,Indian
+81,Foxface Natural,American
+82,Kafana,Serbian
+83,M. Wells,Québécois-French
+84,Hakka Cuisine,Chinese
+85,Wildair,American
+86,188 Bakery Cuchifritos,Puerto Rican-Dominican
+87,Hav & Mar,American (Seafood)
+88,Eulalie,American-Southern
+89,Hamburger America,American (Diner)
+90,Laghman Express,Uyghur
+91,Mapo Korean BBQ,Korean
+92,Çka Ka Qëllu,Albanian
+93,Vendors at Junction Boulevard,Mexican-Ecuadorean
+94,Shopsin's General Store,American (Diner)
+95,Hyderabadi Zaiqa,Indian
+96,Caleta 111,Peruvian
+97,Zum Stammtisch,German
+98,Lakruwana,Sri Lankan
+99,Ewe's Delicious Treats,Nigerian (West African)
+100,Randazzo's Clam Bar,Italian-American (Seafood)
