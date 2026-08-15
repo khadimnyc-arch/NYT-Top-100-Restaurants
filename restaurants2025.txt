@@ -1,0 +1,100 @@
+1,Semma,Indian
+2,Atomix,Korean (Tasting Menu)
+3,Le Bernardin,French (Seafood)
+4,Kabawa,Caribbean (Tasting Menu)
+5,Ha's Snack Bar,French-Vietnamese
+6,King,Mediterranean
+7,Penny,French (Seafood)
+8,Sushi Sho,Japanese (Omakase)
+9,Szechuan Mountain House,Chinese (Sichuan)
+10,Tatiana by Kwame Onwuachi,American-Caribbean
+11,188 Bakery Cuchifritos,Puerto Rican-Dominican
+12,A&A Bake and Doubles,Trinidadian
+13,AbuQir Seafood,Egyptian (Seafood)
+14,Aska,Scandinavian (Tasting Menu)
+15,Atoboy,Korean
+16,Barbuto,Italian-American
+17,Barney Greengrass,Jewish Deli
+18,Birria-Landia,Mexican
+19,Borgo,Italian
+20,Bridges,French-American
+21,Bungalow,Indian
+22,Cafe Kestrel,European-American
+23,Cafe Mado,French-American
+24,Carnitas Ramirez,Mexican
+25,Casa Mono and Bar Jamón,Spanish
+26,Cervo's,Portuguese-Spanish
+27,Chambers,American
+28,Chez Ma Tante,American-European
+29,Cho Dang Gol,Korean
+30,Chongqing Lao Zao,Chinese (Chongqing)
+31,Çka Ka Qëllu,Albanian
+32,Claud,French-American
+33,Cocina Consuelo,Mexican
+34,Court Street Grocers,American (Sandwiches)
+35,Crown Shy,American
+36,Daniel,French (Tasting Menu)
+37,Dera,Pakistani-Indian
+38,Dhamaka,Indian (Regional)
+39,Don Peppe,Italian-American
+40,Ewe's Delicious Treats,Nigerian (West African)
+41,Eyval,Iranian
+42,The Four Horsemen,American
+43,Four Twenty Five,American
+44,Frenchette,French
+45,Gage & Tollner,American (Seafood)
+46,Golden Diner,Asian-American
+47,Gramercy Tavern,American
+48,Great N.Y. Noodletown,Chinese
+49,The Grill,American
+50,Hainan Chicken House,Malaysian
+51,Hamburger America,American (Diner)
+52,Hellbender,Mexican
+53,Ho Foods,Taiwanese
+54,Houseman,American
+55,Jean-Georges,French (Tasting Menu)
+56,Jeju Noodle Bar,Korean
+57,Jungsik,Korean (Fine Dining)
+58,Keens,American (Steakhouse)
+59,Kisa,Korean
+60,Koloman,French-Viennese
+61,Kono,Japanese (Tasting Menu)
+62,Kopitiam,Malaysian
+63,Laghman Express,Uyghur
+64,Lakruwana,Sri Lankan
+65,Le Coucou,French
+66,Le Veau d'Or,French
+67,Levant,Middle Eastern
+68,Lilia,Italian
+69,Little Myanmar,Burmese
+70,Lola's,Asian-Southern American
+71,Lucia Pizza of Avenue X,Italian (Pizza)
+72,Mắm,Vietnamese
+73,Okdongsik,Korean
+74,Okiboru House of Tsukemen,Japanese
+75,Old Sport,Chinese (Halal)
+76,Raf's,French-Italian
+77,Raku,Japanese
+78,Randazzo's Clam Bar,Italian-American (Seafood)
+79,S & P Lunch,American (Diner)
+80,Sailor,American-Mediterranean
+81,Salty Lunch Lady's Little Luncheonette,American (Sandwiches)
+82,Shaw-naé's House,American (Soul Food)
+83,Shukette,Middle Eastern
+84,Sofreh,Iranian
+85,Superiority Burger,American (Vegetarian)
+86,Sushi Noz,Japanese (Omakase)
+87,Sushi Ouji,Japanese (Omakase)
+88,Taiwanese Gourmet,Taiwanese
+89,Temple Canteen,Indian
+90,Thai Diner,Thai
+91,Third Falcon,French-American
+92,Torrisi,Italian
+93,Trinciti Roti Shop,Trinidadian
+94,Txikito,Spanish (Basque)
+95,Una Pizza Napoletana,Italian (Pizza)
+96,Via Carota,Italian
+97,Village Café,Azerbaijani
+98,White Bear,Chinese
+99,Yoon Haeundae Galbi,Korean
+100,Zaab Zaab,Thai
